@@ -1,0 +1,24 @@
+[
+    {
+        "id": "102",
+        "name": "Arun",
+        "department": "IT",
+        "marks": [
+            89.0,
+            86.0,
+            92.0
+        ],
+        "attendance": 80.0
+    },
+    {
+        "id": "103",
+        "name": "Vikash",
+        "department": "ECE",
+        "marks": [
+            55.0,
+            52.0,
+            50.0
+        ],
+        "attendance": 98.0
+    }
+]
